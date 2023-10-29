@@ -1,0 +1,23 @@
+09:17:57.761 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+09:17:58.222 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4
+09:17:58.828 [main]  ERROR com.intuit.karate - src/test/resources/features/shopping.feature:5
+Given User is in the home page
+no step-definition method match found for: User is in the home page
+src/test/resources/features/shopping.feature:5
+09:17:59.329 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/shopping.feature
+09:18:44.462 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+09:18:44.815 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1696429124813
+09:18:44.829 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4
+09:18:45.369 [main]  ERROR com.intuit.karate - src/test/resources/features/shopping.feature:5
+Given User is in the home page
+no step-definition method match found for: User is in the home page
+src/test/resources/features/shopping.feature:5
+09:18:45.817 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/shopping.feature
+12:57:31.325 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:57:31.846 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1696442251842
+12:57:31.868 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 4
+12:57:32.657 [main]  ERROR com.intuit.karate - src/test/resources/features/shopping.feature:5
+Given User is in the home page
+no step-definition method match found for: User is in the home page
+src/test/resources/features/shopping.feature:5
+12:57:33.421 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/shopping.feature

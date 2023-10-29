@@ -1,0 +1,8 @@
+
+i
+java:S1223P"LRename this method to prevent any misunderstanding or make it a constructor.(¹ŒÆ©8°Ö¹³°1
+j	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ŒÆ©8¸Ö¹³°1
+h
+java:S1128"KRemove this unused import 'net.serenitybdd.screenplay.actions.DoubleClick'.(ñÏš²8Ì›Ä³°1
+q
+java:S1128"ORemove this unused import 'test.validationshoppingcar.userinterfaces.HomePage'.(èáàıÿÿÿÿ8¸Ö¹³°1
