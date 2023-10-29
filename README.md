@@ -8,12 +8,12 @@ This repository contains a Automation test for frontend with serenity framework.
 
 
 ## Table of contents
- - [Introduction](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#introduction) 
- - [Getting started](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#getting-stared)
- - [Running the tests](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#running-test)
- - [Web browser](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#web-browsers)
+ - [Introduction](https://github.com/stiagoq/prueba_arus_serenity_bdd/tree/main#introduction) 
+ - [Getting started](https://github.com/stiagoq/prueba_arus_serenity_bdd/tree/main#getting-stared)
+ - [Running the tests](https://github.com/stiagoq/prueba_arus_serenity_bdd/tree/main#running-test)
+ - [Web browser](https://github.com/stiagoq/prueba_arus_serenity_bdd/tree/main#web-browsers)
  - [General implementation details](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#general-implementation-details)
- - [Tests](https://github.com/stiagoq/prueba_arus_serenity_bdd/edit/main/README.md#test)
+ - [Tests](https://github.com/stiagoq/prueba_arus_serenity_bdd/tree/main#test)
 
 ## Introduction 
 
