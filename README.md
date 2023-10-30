@@ -57,7 +57,7 @@ Another option is to use the  of [WebDriverManager](https://github.com/bonigarci
 The test scenario are created  in the feature files that have ending *.feature*. These files supports the Gherking format and connected to step definition methods using keywords such as @Given, @When and @Then. The step definition are connected that Task classes that use the elements created in the User Interface classes to replicate the user's actions. Task classes are used by Given and When,where high-level actions are performed. For the Then step,  it communicates with Question classes to perform validations.
 
 ```bash
-   📦prueba_tyba_serenity_bdd
+   📦prueba_arus_serenity_bdd
    ┣ 📂src
    ┃ ┣ 📂 main
    ┃ ┃ ┣ 📂java
